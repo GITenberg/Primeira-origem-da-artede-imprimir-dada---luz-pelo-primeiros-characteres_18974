@@ -1,0 +1,31 @@
+_repo: Primeira-origem-da-artede-imprimir-dada---luz-pelo-primeiros-characteres_18974
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Villeneuve, João
+    aliases:
+    - Villeneuve, Jean de
+    - Villeneuve, Joao
+    deathdate: 1777
+    gutenberg_agent_id: '8382'
+    url: http://www.gutenberg.org/2009/agents/8382
+description: ''
+gutenberg_bookshelf: PT História
+gutenberg_issued: '2006-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18974'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Printing -- History'
+- !lcc 'Z'
+title: 'Primeira origem da arte
+
+  de imprimir dada à luz pelo primeiros characteres'
+url: http://www.gutenberg.org/ebooks/18974
